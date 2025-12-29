@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/srikanthkn/Desktop/HFT_journey/output/inheritence'
+relocations:     []
+...
