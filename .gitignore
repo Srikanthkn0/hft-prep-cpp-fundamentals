@@ -1,0 +1,9 @@
+# Build outputs
+output/
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# macOS
+.DS_Store
